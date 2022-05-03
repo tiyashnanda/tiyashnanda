@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tiyashnanda
 - 👀 I’m interested in ...coding and designing
-- 🌱 I’m currently learning ...C and Python
-- 💞️ I’m looking to collaborate on ...UI and UX
+- 🌱 I’m currently learning ...C, Python and HTML
 - 📫 How to reach me ...Email
 
 <!---
